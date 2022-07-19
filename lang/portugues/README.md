@@ -1,6 +1,6 @@
 <p align="center">
   <span>Português</span> |
-  <a href="https://github.com/hydroversebr/hydroversebr/blob/main/lang/portugues/README.md">English</a>
+  <a href="https://github.com/hydroversebr/hydroversebr">English</a>
 
 ### motivação
 
