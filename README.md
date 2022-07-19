@@ -4,7 +4,7 @@
 
 ### motivação
 
-O hydroversebr é um projeto com finalidade de concentrar esforços de hidrólogos de maneira a prover cadeias de processamentos comumente realizadas na modelagem hidrológica. Com isso visamos contribuir com a ciência hidrologica assim como planejamento e gestão dos recursos hídricos no brasil. O mesmo é aberto à estusiastas. Faça parte da equipe e ajudenos a realizar esse projeto. Esse trabalho é uma iniciativa voluntária por alguns hidrólogos brasileiros.
+O hydroversebr é um projeto com finalidade de concentrar esforços de hidrólogos de maneira a prover cadeias de processamentos comumente realizadas na modelagem hidrológica. Com isso visamos contribuir com a ciência hidrologica no Brasil de maneira a dar suporte às suas diversas finalidades. Contribuições no desenvolvimento do pacote são aceitas e encorajadas. Faça parte da equipe e ajudenos a realizar esse projeto. Esse trabalho é uma iniciativa voluntária por alguns hidrólogos brasileiros.
 
 ##
 ### Contato:
