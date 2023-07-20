@@ -23,3 +23,5 @@ In case you want to be part of the team, contact us.
 ##
 
   ![Snake animation](https://github.com/hydroversebr/hydroversebr/blob/output/github-contribution-grid-snake.svg)
+
+  ![](https://komarev.com/ghpvc/?username=hydroversebr)
