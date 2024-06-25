@@ -4,9 +4,9 @@
 
 ### Motivation
 
-The motivation behind hydroversebr is to provide an environment for collaborative development in R of toolsets commonly used in hydrological studies. This project is a voluntary iniciative from a few Brazilian hydrologists. We seek to contribute with hydrological sciences in Brazil and support its several purposes. The hydroversebr already includes the <a href="https://github.com/hydroversebr/hydrobr">hydrobr</a> package, which provides acess to Brazilian hydrological datasets, data quality check, and several hydrological analyses.
+The motivation behind hydroversebr is to provide an environment for collaborative development in R of toolsets commonly used in hydrological studies. This project is a voluntary iniciative from a few Brazilian hydrologists. We seek to contribute with hydrological sciences in Brazil and support its several purposes. The hydroversebr already includes the <a href="https://github.com/hydroversebr/hydrobr">hydrobr</a> and <a href="https://github.com/hydroversebr/basinPhysiografics">basinPhysiografics</a>packages.
 
-The long-term objective is for hydroversebr to become a collection of R packages designed to support hydrological analyses and modeling.
+The long-term objective is for hydroversebr to become a collection of R packages designed to support hydrological analyses and modelling.
 
 
 ### Contribute
