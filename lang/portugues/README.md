@@ -4,7 +4,7 @@
 
 ### Motivação
 
-A motivação por trás do hydroversebr é prover um ambiente colaborativo para o desenvolvimento em R de cadeias de processamento comumente utilizados em estudos hidrológicos. Esse projeto é uma iniciativa voluntária por parte de alguns hidrólogos brasileiros. Com isso, visamos contribuir com a ciência hidrológica no Brasil e dar suporte às suas diversas finalidades. O hydroversebr já conta com o pacote <a href="https://github.com/hydroversebr/hydrobr">hydrobr</a>, cujas funcionalidades incluem tornar mais acessível os dados hidrológicos brasileiros disponíveis, o controle de qualidade dos mesmos, e diversas análises direcionados à hidrologia. 
+A motivação por trás do hydroversebr é prover um ambiente colaborativo para o desenvolvimento em R de cadeias de processamento comumente utilizados em estudos hidrológicos. Esse projeto é uma iniciativa voluntária por parte de alguns hidrólogos brasileiros. Com isso, visamos contribuir com a ciência hidrológica no Brasil e dar suporte às suas diversas finalidades. O hydroversebr já conta com os pacotes <a href="https://github.com/hydroversebr/hydrobr">hydrobr</a> e  <a href="https://github.com/hydroversebr/basinPhysiografics">basinPhysiografics</a>. 
 
 O objetivo de longo prazo é que o hidroversebr se torne uma coletânea de pacotes R desenhados para dar suporte a análises e modelagem hidrológica. 
 
